@@ -1,1 +1,1 @@
-
+This folder contains all code used throughout the course of the project. This could include scripts/notebooks used to clean data; code for analyzing the data; and other code for creating maps, graphics, or images.
