@@ -1,0 +1,166 @@
+To: Jim Whittington 
+    National Archives 
+    Center for Electronic Records 
+    Room 20-E (NNX) 
+    7th & Pennsylvania Avenue 
+    Washington, DC NW 20408 
+    (202) 501-5565 
+  
+From: Nancy Smart 
+      Center for Immigration Research 
+      18 South 7th Street 
+      Phila., PA 19106 
+      (215) 922-3454 
+  
+Date: May 2, 1990 
+  
+Re: Center for Immigration Research, Famine Irish Collection 
+  
+  
+Dear Mr. Whittington, 
+  
+   Per our conversation, I am sending you the information I
+currently 
+have regarding our Famine Irish Collection.  As I continue to
+integrate 
+this collection into our data base, I will foward any other
+information 
+I find regarding the data in this collection. 
+  
+If you have any questions, please feel free to call my office. 
+  
+  
+Abbreviations found in this documentation: 
+------------------------------------------ 
+CIR - Center for Immigration Research 
+MHR - Manifest Header Record(s) 
+MID - Manifest Identification Number 
+  
+  
+File Names: 
+---------- 
+FIMHR - Famine Irish Manifest Header File - on this disk 
+  3226 records - one record per manifest 
+FIPAS - Famine Irish Passenger Record File - sent on nine-track
+tape 
+  604,596 records - one record per passenger 
+FIPRT - Famine Irish Port Code List - on this disk 
+  134 records - one record per port code 
+FIOCC - Famine Irish Occupation Code List - hard copy sent in
+1982 
+FICTY - Famine Irish Country Code List - on this disk 
+   33 records - one record per country code 
+  
+  
+File Layouts: 
+------------ 
+                                 FIMHR 
+                                 ----- 
+  
+Beg.   End.   Field    Field    Field Description 
+Col.   Col.   Length   Type 
+  
+  1      8       8      N       CIR-MID: Key to records in FIPAS file 
+  9      9       1      A       Filler 
+ 10     30      21      A       Ship Name 
+ 31     33       3      N       CIR - Code for the Ship Port of Embarkation 
+                                  See FIPRT file for code 
+ 34     34       1      A       Filler 
+ 35     44      10      A       Ship Arrival Date 
+ 45     45       1      A       Filler 
+ 46     48       3      N       Number of Corresponding Passenger
+                                Record(s) in the FIPAS file 
+  
+  
+Note: The CIR-MID and the Ship Arrival Date uniquely determine a
+record. 
+      The CIR-MID is unigue for every manifest record except for
+the following five, each of which appears twice; 00001131,
+00002082, 00002345, 00003471 and 00002483. 
+  
+  
+  
+                                 FIPAS 
+                                 ----- 
+  
+Beg.   End.   Field    Field    Field Description 
+Col.   Col.   Length   Type 
+  
+  1     20       20     A       Last Name 
+                                  U = Unknown 
+ 21     21        1     A       Filler 
+ 22     40       19     A       First Name 
+                                  U = Unknown 
+ 41     41        1     A       Family Relation Code 
+                                  A = Aunt, B = Brother 
+                                  C = Cousin, D = Daughter 
+                                  F = Stepdaughter, G = Stepson 
+                                  H = Husband, L = Any In-Law 
+                                  M = Mother, N = Niece or Nephew
+                                  P = Father, S = Son, T = Sister
+                                  U = Uncle, W = Wife 
+                                  Y = Grandparent, Z = Grandchild
+ 42     44        3     N       Age 
+                                  900 = Born at Sea 
+                                  901 ... 911 = Infant, 1 ... 11 months 
+                                  800 = Unknown 
+ 45     45        1     A       Filler 
+ 46     46        1     A       Sex Code 
+                                  M = Male, F = Female, U = Unknown 
+ 47     47        1     A       Filler 
+ 48     57       10     A       CIR - Occupation Code 
+                                  SEE FIOCC file for code 
+ 58     58        1     A       Literacy Code 
+                                  Y = Yes, N = No, U = Unknown 
+ 59     61        3     N       CIR - Native Country Code 
+                                  SEE FICTY file for code 
+ 62     62        1     A       Filler 
+ 63     82       20     A       Town of Last Residence 
+                                   U = Unknown 
+ 83    102       20     A       Destination 
+                                   U = Unknown 
+103    103        1     A       CIR - Transit Code 
+                                  S = Staying in the US 
+                                  I = In transit, final destination not US, 
+                                      or country of origin 
+                                  T = Temporary Visit 
+                                  R = Return trip to the US, but not a 
+                                      citizen of the US 
+                                  C = Citizen of the US 
+                                  U = Unknown 
+104    105        2     A       CIR - Travel Compartment Code 
+                                  09 = Cabin, 13 = Steerage 
+                                  15 = Stowaway, U = Unknown 
+106    107        2     A       Filler 
+108    110        3     N       CIR - Passenger Port of Embarkation Code 
+                                  See FIPRT file for code 
+111    111        1     A       Filler 
+112    119        8     N       CIR-MID Key to FIMHR file 
+120    120        1     A       Filler 
+121    130       10     A       Passenger Arrival Date 
+121    122        2     N         Month of Arrival 
+124    125        2     N         Day of Arival 
+127    130        4     N         Year of Arrival 
+  
+  
+  
+                                 FIPRT 
+                                 ----- 
+  
+Beg.   End.   Field    Field    Field Description 
+Col.   Col.   Length   Type 
+  1      3      3       N       CIR - Port(s) Code 
+  4      4      1       A       Filler 
+  5     44     40       A       Port(s) 
+  
+  
+  
+  
+                                 FICTY 
+                                 ----- 
+  
+Beg.   End.   Field    Field    Field Description 
+Col.   Col.   Length   Type 
+  1      3      3       N       CIR - County Code 
+  4      4      1       A       Filler 
+  5     34     30       A       Country 
