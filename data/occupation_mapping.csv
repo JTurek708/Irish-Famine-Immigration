@@ -1,0 +1,914 @@
+occupation_code,occupation_desc,occupation_code_norm
+ABSR,Agrt,ABSR
+ACCT,I /' Y1··~,ACCT
+ACTOR,Accountant,ACTOR
+ADJUSTER,Actuary,ADJUSTER
+ADLR,Dealer,ADLR
+ADVNTR,Adj,ADVNTR
+ADVOCATE,Adventurer,ADVOCATE
+AERO,Naut,AERO
+AGIATO,Agent,AGIATO
+AGNTTH,Agent,AGNTTH
+AGT,Agnt,AGT
+AHR,Auc,AHR
+ALSH,"Cat. 1053, Record Block **Wt2 ~Ridget/ Alshj 1053, Record Block **Ih2 Jane",ALSH
+AMR,Arms Of,AMR
+ANT,Adv,ANT
+ANTIQUE,Agriculturer Ambassador,ANTIQUE
+AQTUT,Aptc Apdst Or,AQTUT
+ARCHD,•',ARCHD
+ARMOURER,Apothecary Apprendist Apprentice Aquraterrut Archdeacon Architect,ARMOURER
+ART,Pdlr,ART
+ARTISAN,".,:. Artist,",ARTISAN
+ARTIST,Draftsman/Drau..G Dramatic/Drai-1Atic,ARTIST
+ASST,Atsn,ASST
+ATR,Ar,ATR
+ATSN,Ay,ATSN
+ATTEND,Ath,ATTEND
+AUTHOR,"/ ,.,,;­ Vi ':'7 Auctioneer",AUTHOR
+AY,(Army),AY
+BACKER,Winder B,BACKER
+BAGER,Bagpicker,BAGER
+BAILER,Baker,BAILER
+BALF,Balr,BALF
+BANK,Bailiff Clerk,BANK
+BARBER,Banker,BARBER
+BARREL,Barkeeper,BARREL
+BATHER,Barrister ~Artender Basketmaker,BATHER
+BATTER,Bather,BATTER
+BBR,Bac Mnrn,BBR
+BCKM,Bklyr,BCKM
+BDLR,Brz,BDLR
+BDMKR,Bat,BDMKR
+BDSM,Brdkp,BDSM
+BEAD,Manufacturer,BEAD
+BELL,Bicycle,BELL
+BELLOWS,Beadmaker,BELLOWS
+BGP,Bck,BGP
+BILEN,Bicycle -.;:.,BILEN
+BIRD,Birdman,BIRD
+BITMAKER,...,BITMAKER
+BKBNDR,Htr,BKBNDR
+BKMR,Bkpr,BKMR
+BKR,Mp Maker,BKR
+BL,Blnkmr,BL
+BLANKET,Blacksmith Maker,BLANKET
+BLDR,Brkr Bpj.1,BLDR
+BLKP,Blkctr,BLKP
+BLKSMH,Btm,BLKSMH
+BLOCK,"I \Bridget 1053, Record",BLOCK
+BLOWER,Bleacher Blockcutter Blockprin'L'Er,BLOWER
+BND,Bln,BND
+BOAT,Blr,BOAT
+BOATMAN,Boatma.Ker Boilermaker,BOATMAN
+BON,Blocker Net,BON
+BONDSMAN,Keeper Boardinghouse,BONDSMAN
+BONNET,Maker,BONNET
+BOTANIST,"Bookbn""Der Bookkeeper Bookmaker Bookseller Bootblack Bootmaker Bo.Otcloser",BOTANIST
+BOTT,Btmkr B~·,BOTT
+BOTTLE,Botskw Maker,BOTTLE
+BOX,Maker,BOX
+BRAID,Weaver,BRAID
+BRASS,Finisher,BRASS
+BREAD,Brazier,BREAD
+BRFHR,Bdwr,BRFHR
+BRKSTR,Brr,BRKSTR
+BROKER,Brewer Brickersei'Ter Bricklayer Brickmaker,BROKER
+BRSSMH,Brf,BRSSMH
+BSH,Bus,BSH
+BSKM,Bar Btdr (Barman),BSKM
+BTBLK,Bksl,BTBLK
+BTL,Bchr,BTL
+BTLMKR,Bot,BTLMKR
+BTMK,Blwr,BTMK
+BTNM,Btnf,BTNM
+BTNMP,Worker,BTNMP
+BUILDER,Captain Car,BUILDER
+BURGESS,Burgepj.1Eister,BURGESS
+BUSSHER,Business,BUSSHER
+BUTLER,Butcher,BUTLER
+BUTTON,Button,BUTTON
+BWD,Bdmnftr,BWD
+BXMR,Bblk,BXMR
+CADT,Cbtmkr,CADT
+CAK,Ctm,CAK
+CALENDER,Cadet,CALENDER
+CARRIAGE,"Carder ,",CARRIAGE
+CARRIER,Carpenter,CARRIER
+CASHIER,Carver Carver-Gilder Car'J'Er Cartwright '>!·,CASHIER
+CB,Cclr,CB
+CBLDR,"Cadr:""",CBLDR
+CBMKR,Clnt Cdn,CBMKR
+CCHBLDR,Clwn,CCHBLDR
+CCHMN,Cchmkr Driver,CCHMN
+CCMCHT,Cengr,CCMCHT
+CFEKPP,Cblr,CFEKPP
+CGR,Chnd,CGR
+CGRMKR,"Chswp Chswp,",CGRMKR
+CHARGER,Chandler,CHARGER
+CHASSEUR,Chaser,CHASSEUR
+CHEMIST,Chemical Manufacturer,CHEMIST
+CHFRMN,Chmkrr,CHFRMN
+CHIMNEY,Sweeper,CHIMNEY
+CHMAK,Chd,CHMAK
+CHMKR,Cllp,CHMKR
+CHMMTR,Chmgr,CHMMTR
+CHNMKR,Cllmn,CHNMKR
+CHP,Cmst,CHP
+CHR,Htr,CHR
+CHWKR,Clsh,CHWKR
+CKCTR,Cdw,CKCTR
+CKM,Gk,CKM
+CKR,Chas,CKR
+CL,Clgymn,CL
+CLCP,Calr,CLCP
+CLD,Clg,CLD
+CLEANER,Chimney,CLEANER
+CLERK,Grocer Grocer,CLERK
+CLKMKR,Clkmh,CLKMKR
+CLOTH,Clothier La.Pper,CLOTH
+CLOWN,Clothmaker,CLOWN
+CMMR,Cmmr,CMMR
+CMMSR,Cmagt,CMMSR
+CMN,Cmc,CMN
+CMP,Cmpr,CMP
+CMR,Ctnsp,CMR
+CMSTM,Chemist,CMSTM
+CNF,Con,CNF
+CNWVR,Cndl,CNWVR
+COACH,Coachbuilder Coachmaker Coachman/Coach Painter,COACH
+COAL,Coachtrimmer Drawer,COAL
+COBBLER,Coalman,COBBLER
+COFFEE,Housekeeper,COFFEE
+COL,Colman,COL
+COLAGT,Clr,COLAGT
+COLLIERY,Collier,COLLIERY
+COLONEL,Colliery,COLONEL
+COM,Combmaker Engineer,COM
+COMEDIAN,Colonisator ...;:·.,COMEDIAN
+COMM,Merchan'.R,COMM
+COMMERCE,...,COMMERCE
+COMPOSER,Clerk Commercial Traveller Commercial Agent Commission Commissioner Compositor,COMPOSER
+CONS,Cfr,CONS
+CONSUL,Conductor Confectioner Confessor Conservator Constable Constable/Parish,CONSUL
+COOK,Contractor,COOK
+COPIER,Cooper,COPIER
+CORAL,Printer Copperplate Coppersmith Worker,CORAL
+CORD,Cordwainer Winder,CORD
+CORN,Corkcutter Merchant,CORN
+CORPS,"Engineer Engineers,",CORPS
+CORSOT,Maker Corset-Stay,CORSOT
+CORST,Cst,CORST
+COTTON,Cotc':Eim Bleacher,COTTON
+COUM,Ctnstcr,COUM
+COUNT,Couchman,COUNT
+COUNTRY,Counsellor Ma.Ide,COUNTRY
+COURT,Courier Counsellor,COURT
+CPRSMH,Cpprntr,CPRSMH
+CPT,Scp,CPT
+CPYR,Cpr,CPYR
+CRBLDR,Cpt,CRBLDR
+CRMN,Cdr,CRMN
+CRNM,Crmcht,CRNM
+CROFTER,Cowboy,CROFTER
+CRR,Ctyw,CRR
+CRTRD,Crpm,CRTRD
+CST,Scp,CST
+CTHR,Clfn,CTHR
+CTLH,Ctlmn Ctldlr •,CTLH
+CTMNF,Ctndr,CTMNF
+CTNB,Cot Lr,CTNB
+CTNBYR,Ctnbrkr,CTNBYR
+CTRV,Cmcl,CTRV
+CTTR,Csl,CTTR
+CTW,Crt,CTW
+CTYM,".,F",CTYM
+CTYMD,Cslr,CTYMD
+CUOF,Cur,CUOF
+CURGESS,Cultivator,CURGESS
+CURRIER,Curer,CURRIER
+CUSTOMS,"""' Official",CUSTOMS
+CUTTER,C_Utler,CUTTER
+CV,Cgrtw,CV
+CVGLD,Cvr,CVGLD
+CVS,Cver,CVS
+DAIRYMAN,Dagurotypist,DAIRYMAN
+DANCER,Dairymaid,DANCER
+DANCING,Master/,DANCING
+DARY,Dgrt,DARY
+DEALER,Cattle Attendent C.A Ttle,DEALER
+DEL,Dct,DEL
+DELEGATE,Decorator,DELEGATE
+DENTIST,Delver,DENTIST
+DIACTR,Dsgr,DIACTR
+DIAMOND,Designer Cutter,DIAMOND
+DIE,Sinker,DIE
+DIET,Maker,DIET
+DIP,Dgr,DIP
+DIPLOMAT,Digger,DIPLOMAT
+DIVER,Director Distiller,DIVER
+DLR,Dnc,DLR
+DMK,Dsk,DMK
+DMS,Phd Philosophy,DMS
+DNCR,Darymd,DNCR
+DNR,Dpr,DNR
+DOCTOR,Divinity,DOCTOR
+DRAFE,Domestic Donkeyman,DRAFE
+DRAWER,Art,DRAWER
+DRE,Dkymn,DRE
+DRESSER,Dreiner,DRESSER
+DRG,Drl Cchmn. (Coachman),DRG
+DRILLER,Dressmaker,DRILLER
+DRIVER,Car,DRIVER
+DRSMKR,Drs,DRSMKR
+DRUGGIST,Driver,DRUGGIST
+DRY,Goods,DRY
+DRYGDS,Drmr,DRYGDS
+DRYGOODS,Drummer,DRYGOODS
+DSTLR,Dtr,DSTLR
+DT,Dlv,DT
+DVSTDNT,Dir,DVSTDNT
+DYR,Fysvnt,DYR
+ED,Econ,ED
+EDITOR,Economist,EDITOR
+EEGNR,Engineer,EEGNR
+EGG,Dealer,EGG
+EGR,Gmcht (Engraver),EGR
+EGS,Egd,EGS
+ELPLR,Eln,ELPLR
+EMEL,Elo,EMEL
+ENGD,Embd,ENGD
+ENGFTR,".,F",ENGFTR
+ENGINE,Electnical Electrician Electroplater Elocutionist Embellisher Embroiderer Driver,ENGINE
+ENGINEER,Ragman Railroader I Railroad/Locomotive,ENGINEER
+ENTIRE,"Svnt 26 F 3 22, Record 263022 In",ENTIRE
+ER,·­ Ca. T.. 'S,ER
+ERG,Myr,ERG
+EST,Eq,EST
+ESTATE,Engraver Equestrian,ESTATE
+EVNGT,Estagnt,EVNGT
+EXB,Excv,EXB
+EXHORTER,. Evangelist Excavator Exlfibition,EXHORTER
+EXPORTER,~·,EXPORTER
+EXPT,Exht,EXPT
+FACTORY,Factor,FACTORY
+FANCIER,Bfcr,FANCIER
+FARMERS,Farmer,FARMERS
+FARRIER,"Farmers Farmers, Mechanics Farmers, Merchants",FARRIER
+FDRIW,Fdr,FDRIW
+FGR,Fid,FGR
+FIGURIST,Fiddler,FIGURIST
+FINA,Fil,FINA
+FINANCE,Filer,FINANCE
+FIREMAN,F-Inisher Fire Insurance ..;:.,FIREMAN
+FITTER,Furnace,FITTER
+FLABR,Fhad,FLABR
+FLESHER,... Flaxdresser,FLESHER
+FLORIST,Flockmaker,FLORIST
+FLSH,Flaxor,FLSH
+FLST,Flc,FLST
+FLTM,Fa,FLTM
+FLWSLR,Flwmkr,FLWSLR
+FMGR,", Fshk Mft..Ker",FMGR
+FMLA,Fmr Laborers,FMLA
+FMR,Crtr,FMR
+FMSTWD,Fsvnt,FMSTWD
+FOREMAN,Footman,FOREMAN
+FORGEMAN,Forester,FORGEMAN
+FOYER,Foundryman,FOYER
+FRD,Frngmr,FRD
+FRG,Fsr,FRG
+FRMN,Ftmn,FRMN
+FRR,Fmlamcs & Fmµmemcs Mechanics &,FRR
+FRSMCS,Mechanics,FRSMCS
+FRTDR,Frmkr,FRTDR
+FRUMAN,.... Professor Proofreader Proppesmaker Proprietor Merchant Provision,FRUMAN
+FSCTR,I,FSCTR
+FTR,F:Shmn ·,FTR
+FUKP,Fuftr,FUKP
+FUL,Ffmr,FUL
+FUR,I,FUR
+FURNM,Fnshr I,FURNM
+FUSTIAN,Furrier Cutter,FUSTIAN
+FWKR,Ft,FWKR
+FY,Fymn,FY
+GCR,Gdr,GCR
+GDNR,Gkpr,GDNR
+GDRF,Gdbt,GDRF
+GENT,General Agent,GENT
+GEOM,Gsf,GEOM
+GEOMETRE,Gameskeeper Gardener/Grower Gasfitter,GEOMETRE
+GERBER,Gentleman,GERBER
+GIRDLER,Gilder,GIRDLER
+GLASS,Grinder,GLASS
+GLAZIER,Glasser,GLAZIER
+GLOVE,Cutter,GLOVE
+GLOW,Glover Cutter,GLOW
+GLSCTR,Glsbr,GLSCTR
+GLSMKR,Glsfxr Gl~Gdr,GLSMKR
+GLSR,Glsl,GLSR
+GLVC,Gzr,GLVC
+GLVR,Glmk,GLVR
+GM,(Groom),GM
+GRAIN,... Merchant,GRAIN
+GRINDER,Graver,GRINDER
+GRL,Gldr,GRL
+GROWER,Fruit Dealer/Seller Fruit,GROWER
+GSMH,Gfhr,GSMH
+GTHD,Glwc,GTHD
+GUL,Gdnr,GUL
+GUN,Guilder Finisher,GUN
+GVNS,Gdsm,GVNS
+GYMNAST,Gunsmith,GYMNAST
+GYP,Gymn,GYP
+GYPS,Er,GYPS
+HAND,Fa-Beer (Dyer) Farm,HAND
+HARNESS,Hardware Baker,HARNESS
+HAT,Trimmer,HAT
+HATTER,Hatmaker,HATTER
+HD,Hp,HD
+HDWMR,Hank,HDWMR
+HELP,Hawker,HELP
+HERDER,Cattle,HERDER
+HOLDER,Fund,HOLDER
+HOOK,Fireworks Fish,HOOK
+HOOP,Merchant,HOOP
+HORSE,Horseman/Attendent Trainer,HORSE
+HOSPITAL,Orderly,HOSPITAL
+HOSTLER,Hoss,HOSTLER
+HOTEL,..... Keeper,HOTEL
+HOUSE,House ·Steward House· Wife,HOUSE
+HRDRS,Hcklr,HRDRS
+HRSDLR,Pntrh Hp.)!Cht,HRSDLR
+HRSM,Hrsb,HRSM
+HRSTNR,Hrsmn,HRSTNR
+HSKPR,Hsck,HSKPR
+HSMD,Circumstances Special Under,HSMD
+HSTWD,Dms,HSTWD
+HSW,Hswf,HSW
+HTL,Hso,HTL
+HTLMGR,Htlkpr,HTLMGR
+HTR,Cptlt,HTR
+HTSMAN,Dftmn,HTSMAN
+HWK,·Httr,HWK
+IAGNT,Instr Agent.,IAGNT
+IFE,W.,IFE
+II,I I,II
+IMCHT,Irmnf,IMCHT
+IMP,Mdr,IMP
+IMPLIT,Imp Lithographer,IMPLIT
+IMPORTER,Immigrant,IMPORTER
+IN,"20 M Labr 3 ;,. 15, 263015 Entire Record",IN
+INDT,Ind,INDT
+INDUSTRY,"Impresario Imprinter, Independent Industrialist",INDUSTRY
+INDW,Indmn,INDW
+INMKR,Fefndr,INMKR
+INMNGR,Irmnr,INMNGR
+INS,Maker Imb,INS
+INSM,Manager,INSM
+IPTR,U,IPTR
+IRDR,Intp,IRDR
+IRNR,Irnmldr,IRNR
+IRON,Industry Innkeeper Inspector Institutor Instrument Instrument Instrument Insurance Insurance Interpret.Er Dresser,IRON
+IRONER,....,IRONER
+ISB,Builder,ISB
+ISP,Inkp,ISP
+IVORY,Turner,IVORY
+JAP,Jntr,JAP
+JCK,Jobb,JCK
+JDG,Jrnw,JDG
+JEWELLER,Janitor 1Japanner,JEWELLER
+JI,\F\ { I 31\U,JI
+JNRS,Jnr,JNRS
+JOBBER,Jewelry,JOBBER
+JOINER,Jockey,JOINER
+JOURNEY,Joiner'S Journalist Man,JOURNEY
+JRNM,Jnlst,JRNM
+JWLPLH,Jwlr,JWLPLH
+KEEPER,Furnace,KEEPER
+KEMK,Kpr,KEMK
+KEY,Maker,KEY
+KNGR,Ktf,KNGR
+KNIFE,Kettleful Grinder,KNIFE
+KNITTER,Frame Work,KNITTER
+KNL,Kest,KNL
+KROS,Estate,KROS
+LABORER,Laborer (Ital. Operaia') 1 Wife,LABORER
+LABRW,Labr,LABRW
+LACE,Labrador Dealer/Factor,LACE
+LAD,(Launderess),LAD
+LADY,Lady Maid,LADY
+LAMP,Maker,LAMP
+LAND,Landlord Owner,LAND
+LAST,Maker·,LAST
+LAW,Laundress/Washwoman Man 'Laundry Student,LAW
+LCDLR,Labrd,LCDLR
+LCTR,Iptrl ... (Fruit Frd ·· Dealer),LCTR
+LDLAR,Ldpr,LDLAR
+LDMNR,Lwyr,LDMNR
+LDY,Lcmkr,LDY
+LEAD,Lawyer Miner,LEAD
+LEATHER,Maj\Tufacturer,LEATHER
+LECT,Lct,LECT
+LECTOR,..;:,LECTOR
+LEECH,Lecturer Importer,LEECH
+LETTER,Lemonade Cutter,LETTER
+LGTM,Lt,LGTM
+LIGHTER,.... Lieutenant Man,LIGHTER
+LIME,Burner,LIME
+LINEN,Manufacturer,LINEN
+LIQUOR,Liquorist Maker,LIQUOR
+LITERARY,Man,LITERARY
+LITGR,Ltrmn,LITGR
+LKSH,Litgrp,LKSH
+LLD,Ldagnt,LLD
+LMBRM,"Q,A",LMBRM
+LMKR,Lmf,LMKR
+LMNFTR,Lrfh,LMNFTR
+LNBL,Lmb,LNBL
+LNG,Lnmftr,LNG
+LNM,Liptr,LNM
+LOCK,Smith,LOCK
+LOOM,Loomfixer Maker,LOOM
+LPMKR,Ldma,LPMKR
+LQRDLR,Lqr,LQRDLR
+LR,Ctr,LR
+LRFH,Ledlr,LRFH
+LSTDNT,Lad,LSTDNT
+LSTM,Ldowr,LSTM
+LUMBER,Longshoreman Man,LUMBER
+LYRIC,(Singer) Sing,LYRIC
+MA,Cpt,MA
+MACARONI,M.P.,MACARONI
+MACH,Machry,MACH
+MACHINE,Machine,MACHINE
+MACHMKR,Mmdl,MACHMKR
+MAID,Machinery Machinist,MAID
+MAKER,"Clerk Merchant Clock Broker, Clock",MAKER
+MAN,Caulker Cellar,MAN
+MANAGER,Maltster,MANAGER
+MANTEAU,Mangler Manservant,MANTEAU
+MANTLE,Maker,MANTLE
+MAR,Mrns (Wife) W (Husband) H,MAR
+MARBLE,Manufacturer Manufacturer Manufacturing Cutter,MARBLE
+MARINE,Marchese/Marchesa Engineer,MARINE
+MARINER,;:,MARINER
+MARRIED,Marines,MARRIED
+MASON,... Maker,MASON
+MASTER,Master Ship Of,MASTER
+MCHT,Medst,MCHT
+MCHTRET,Ret,MCHTRET
+MDW,·Metlgt,MDW
+MEALER,Matron,MEALER
+MEATMAN,Measurer,MEATMAN
+MECH,Mtm,MECH
+MED,Mdn,MED
+MEDIAN,Mechanic,MEDIAN
+MEN,..... Cattle,MEN
+METAL,"Merchant ·Merchant, Rei'Ired Carrier",METAL
+MGLR,Mgr,MGLR
+MIDWIFE,Metallurgist,MIDWIFE
+MILKMAN,Milkmaid,MILKMAN
+MILL,Milliner Operator,MILL
+MILLER,Fuller Fulling,MILLER
+MINE,Engineer,MINE
+MINING,"Ij ~ I, """,MINING
+MINISTER,Clergyman/Church,MINISTER
+MJR,Svnt,MJR
+MKMN,Mkmd,MKMN
+MLCR,Mchtret,MLCR
+MLDR,Cshr,MLDR
+MLHND,Mlr,MLHND
+MLOPR,Mlnr,MLOPR
+MLSTR,Mkr,MLSTR
+MLW,Mlov,MLW
+MMCHT,Mctr,MMCHT
+MNFTR,Mntl,MNFTR
+MNLG,Mnr,MNLG
+MNRE,Mlwr,MNRE
+MNSTR,Mag,MNSTR
+MNTR,Ctrmn,MNTR
+MO,Mon,MO
+MOD,Msny,MOD
+MODELER,Missionary,MODELER
+MONGER,Fish,MONGER
+MOTHER,Monk,MOTHER
+MOUNTAIN,Moulder/Molder,MOUNTAIN
+MRHS,Mpol,MRHS
+MRNR,Meng,MRNR
+MSR,Mr,MSR
+MST,Msmk,MST
+MTMKR,Msvrq,MTMKR
+MULE,Mounter Driver,MULE
+MUS,.~ Tchr,MUS
+MUSDLR,Musdir,MUSDLR
+MUSIC,Teacher,MUSIC
+MUSICAL,Musical,MUSICAL
+NAIL,I Smith,NAIL
+NAILER,Nailer Maker,NAILER
+NAVAL,Naval.Commander Officer,NAVAL
+NAVY,Navigator,NAVY
+NAY,Nvyst,NAY
+NBL,(Nobility),NBL
+NCO,Nbl,NCO
+NDM,Ner,NDM
+NEARER,Navvy (Fr. 'Terrassier'),NEARER
+NEEDLE,Manufacturer,NEEDLE
+NET,Negotiator Maker,NET
+NLRM,Nlr,NLRM
+NOBOLITY,Newspaper.,NOBOLITY
+NOTARY,None­ Public,NOTARY
+NOTPUB,Nn,NOTPUB
+NRS,;,NRS
+NRSN,Nrsm,NRSN
+NURSE,Nul\Se Maid,NURSE
+NVGT,Nvof,NVGT
+NVYCMD,Nlrm,NVYCMD
+NVYCPT,Nvy,NVYCPT
+NWP,Ntmkr,NWP
+OF,Supt,OF
+OFF,Occ,OFF
+OFFICER,Noncommissioned,OFFICER
+OGNBDR,Ortr,OGNBDR
+OGNST,Ognmk,OGNST
+OPERA,Oilman Manager,OPERA
+OPM,Olm,OPM
+OPTC,Op,OPTC
+OPTICIAN,Operative,OPTICIAN
+ORANGE,Grower,ORANGE
+ORATOR,Orfice,ORATOR
+ORF,Org,ORF
+ORGAN,Builder,ORGAN
+OSTLER,Organist,OSTLER
+OVERSEER,.Overlooker,OVERSEER
+OVRSR,Gm (.~Room) Ovrsr (Overseer),OVRSR
+PAINTER,Packer 1Page,PAINTER
+PAPER,Manufacturer,PAPER
+PARCON,Prg,PARCON
+PARGETER,Pardner,PARGETER
+PARISH,Constable,PARISH
+PASTE,Sll Pssl,PASTE
+PASTERY,Paster Maker,PASTERY
+PATENT,Agent,PATENT
+PATTERN,Designer,PATTERN
+PAWN,Paver Broker,PAWN
+PDLR,Psnt,PDLR
+PDNR,Ppstr,PDNR
+PEARL,Button,PEARL
+PEDDLER,Peasant,PEDDLER
+PEDLAR,·.::.,PEDLAR
+PEN,Maker,PEN
+PENCIL,Artist,PENCIL
+PERFUMER,...,PERFUMER
+PFNL,Pvtr :T'Rdbr,PFNL
+PG,Pk,PG
+PH,Phst,PH
+PHS,Ams,PHS
+PIANIST,Pewterer Pharmacist Philosopher Student Philosophy Photographer Physician,PIANIST
+PIANO,Manufacturer,PIANO
+PIECER,Pictor,PIECER
+PIN,Maker,PIN
+PINST,Md,PINST
+PIPE,Pioneer Maker,PIPE
+PITMAN,Piper,PITMAN
+PLANTER,Plaiter,PLANTER
+PLAYER,Chess,PLAYER
+PLC,Tr,PLC
+PLEGER,Plasterer,PLEGER
+PLGM,Plgmkr,PLGM
+PLGR,Plstr,PLGR
+PLMN,Pnr,PLMN
+PLNTR,Plr,PLNTR
+PLTR,".,F",PLTR
+PLUMBER,Ploughmaker Ploughman Ploughwoman,PLUMBER
+PMBR,Plgw,PMBR
+PMM,Maker,PMM
+PMNFTR,Pmkr,PMNFTR
+PMS,Past,PMS
+PNM,Pcr,PNM
+PNTR,Ptnr,PNTR
+POLISHER,Pointer Policeman ',POLISHER
+POST,Possident Assistant,POST
+POT,Maker,POT
+POTTERY,Potter Maker,POTTERY
+POWDER,Portar/Porter Portmanteau Poulterer Ma.Ker,POWDER
+PPHGR,Pntr,PPHGR
+PPMKR,Pir,PPMKR
+PPMPR,Ppmkr,PPMPR
+PPTR,Prm,PPTR
+PRCH,Pdrmkr,PRCH
+PRESSMAN,Preacher President,PRESSMAN
+PRFR,Prof,PRFR
+PRINT,Priest Principal Cutter,PRINT
+PRINTER,Lithographer · Lithographer,PRINTER
+PRIVATE,Printer Man,PRIVATE
+PRL,Prest,PRL
+PRMN,Pvmt,PRMN
+PRNTR,Prntctr,PRNTR
+PRODUCT,Frivatier,PRODUCT
+PRS,Pres,PRS
+PRTR,Ptym,PRTR
+PSSL,"Pasm .,F",PSSL
+PSSR,Plh,PSSR
+PST,Psmk,PST
+PT,Ptym,PT
+PTBY,Post,PTBY
+PTDSGR,Pagnt,PTDSGR
+PTM,Ppr,PTM
+PTMKR,",",PTMKR
+PTR,Chptr Ch~ (Putter),PTR
+PUB,Pel,PUB
+PUCKER,Publican Publisher,PUCKER
+PUD,Pkr,PUD
+PUGILIST,Puddler,PUGILIST
+PUMK,Pug,PUMK
+PUMP,Maker,PUMP
+PURSE,Maker,PURSE
+PVTW,Pvtm,PVTW
+PWB,Pvr,PWB
+PWT,Prf,PWT
+QA,Qrymn,QA
+QRYMN,Cptr,QRYMN
+QTR,Ctl,QTR
+QUARRIER,Longshoreman Q.C.,QUARRIER
+QUAY,Quarryman Man/,QUAY
+RAILWAY,Superintendent Superintendent,RAILWAY
+RAINES,Hackler Hairdresser Maker,RAINES
+RANGER,Rancher,RANGER
+RAZOR,Manufacturer,RAZOR
+RCENGR,Engr Royal,RCENGR
+RCR,Rrp,RCR
+RE,Rfg Rfgat Attendant Nuns) (For,RE
+REAGT,Agent,REAGT
+REAL,Estate,REAL
+REGAN,Pat,REGAN
+RENAN,"1053, Record Block **Wt2 Mgt.",RENAN
+RENTER,Refrigerator Refrigerator Religious Religious-Notre,RENTER
+REPORTER,Rentier,REPORTER
+RESTORER,Restaurant,RESTORER
+RETIRED,Retired Merchant,RETIRED
+REVITER,Maker R~Tort,REVITER
+RFMK,Rolr,RFMK
+RGR,Rbm,RGR
+RIBBON,... Maker,RIBBON
+RIDER,Blhgr Bcr,RIDER
+RLR,Rcengr,RLR
+RMNFTR,Rngr,RMNFTR
+ROLLER,Rigger ·­,ROLLER
+ROOF,Maker,ROOF
+ROPE,Maker,ROPE
+ROYAL,... Of Corps,ROYAL
+RPTR,Rtr,RPTR
+RR,Dame Re-N;J~,RR
+RRMGR,Rrng,RRMGR
+RRR,Rgm,RRR
+RST,Rest,RST
+RULER,Engineers,RULER
+RVR,Retmkr,RVR
+SADDLER,Saddler Maker,SADDLER
+SAFT,Shmnftr,SAFT
+SAIL,Sailor/Sailoress Maker,SAIL
+SALE,Maker,SALE
+SALOON,Salesman Keeper,SALOON
+SALT,Slkp,SALT
+SAWFILER,Salter Sawer/Sawyer,SAWFILER
+SBRK,'Shfm,SBRK
+SCALE,Sawmaker Maker,SCALE
+SCH,"Schm""",SCH
+SCHOOL,Master,SCHOOL
+SCISSORS,"""Scholar",SCISSORS
+SCM,Swmkr,SCM
+SCRV,Scsm,SCRV
+SCULPTOR,Scriviner,SCULPTOR
+SDLMKR,Sdlr,SDLMKR
+SDM,Sec Sec-Ymca,SDM
+SEA,Captain,SEA
+SEEDMAN,"Seaman Seamstress S$Cretary Secretary-Ymca"" -.:",SEEDMAN
+SELLER,Seller ·­ Of,SELLER
+SENATOR,U.S.,SENATOR
+SERVANT,Family,SERVANT
+SERVICE,Civil,SERVICE
+SERVICES,.. Gvts,SERVICES
+SERVING,Machinist,SERVING
+SETTER,Settel-Up,SETTER
+SEWER,Settler Settmaker,SEWER
+SGNMKR,Sgrl,SGNMKR
+SGNS,Shpc,SGNS
+SHAVER,Sharfen,SHAVER
+SHB,Shpast,SHB
+SHEEP,Shearer Dealer,SHEEP
+SHEET,Manufacturer,SHEET
+SHF,Smsts,SHF
+SHFM,Shfm,SHFM
+SHIP,Shepherd Shipbroker Chandler,SHIP
+SHIPPING,Shipper,SHIPPING
+SHIRT,Shipsmith Shipwright Maker,SHIRT
+SHMFTR,Shfm,SHMFTR
+SHMK,Shbnd,SHMK
+SHOE,I Shoemaker Manufacturer,SHOE
+SHOP,Assistant,SHOP
+SHPG,Shpr,SHPG
+SHPMKR,Shchnd,SHPMKR
+SHPMN,Shpkr,SHPMN
+SHPO,Cpt,SHPO
+SHPWRT,Shsm,SHPWRT
+SHR,Shv,SHR
+SIEVE,Showman Maker,SIEVE
+SIGAR,Lab,SIGAR
+SIGN,Painter,SIGN
+SILK,Manufacturer,SILK
+SING,(Singer),SING
+SINGER,Plater Sil~R Silversmith,SINGER
+SKINNER,Single '~,SKINNER
+SKR,Sgl,SKR
+SL,Ctr,SL
+SLBR,Slt,SLBR
+SLD,Sdwm,SLD
+SLMKR,Slr,SLMKR
+SLOBER,Slater,SLOBER
+SLPL,Swvr,SLPL
+SLSMN,Slmk,SLSMN
+SMACH,Svnt,SMACH
+SMD,S.Ml,SMD
+SMIDTH,Smelter,SMIDTH
+SMKR,Stlr,SMKR
+SMNFTR,Sdyr,SMNFTR
+SMSTS,Semn,SMSTS
+SOAP,... Boiler,SOAP
+SODA,Maker Water,SODA
+SPINNER,Soldier Solicitor Speculator,SPINNER
+SPM,Spb,SPM
+SPNR,Spec,SPNR
+SPNTR,".,F",SPNTR
+SPRTMN,Sp,SPRTMN
+SSPNR,Smcht,SSPNR
+STAMP,Spinster Sportsman Springmaker Stableman Maker,STAMP
+STARCH,Ma.Ker,STARCH
+STATUARY,Statesman Stationer,STATUARY
+STAY,Maker,STAY
+STCTR,Stb,STCTR
+STCWKR,Stclr,STCWKR
+STDRS,Stwst Stma.Kr,STDRS
+STELL,Maker,STELL
+STEWARD,Stenographer Stevedore,STEWARD
+STHMKR,Stamkr,STHMKR
+STICK,Stwedardess Steward'S-Of-Room Steward-Of-The-Stores Maker,STICK
+STIFF,Stickdresser Presser,STIFF
+STK,Wrhwk,STK
+STKB,Stprs,STKB
+STKG,Stk,STKG
+STKM,Stkmkr,STKM
+STKPR,Stcl J(,STKPR
+STKW,Stkr,STKW
+STLMN,Spmk,STLMN
+STMSN,Stdlr,STMSN
+STNER,Stmn,STNER
+STNG,Stmkr,STNG
+STNR,Stplh,STNR
+STOCK,Broker,STOCK
+STOCKMAN,1,STOCKMAN
+STOKER,Stocking,STOKER
+STONE,Stoker-Gas Breaker,STONE
+STORE,Stoner Clerk,STORE
+STOVE,Storekeeper Manufacturer,STOVE
+STPR,Stvmn,STPR
+STR,Sup,STR
+STRAP,Presser,STRAP
+STREET,Cleaner,STREET
+STUCCO,Worker,STUCCO
+STUDENT,Medical Medical,STUDENT
+STWD,Stws,STWD
+SUBDUER,Student,SUBDUER
+SUGAR,Refiner,SUGAR
+SUGF,Sugb,SUGF
+SUPER,"Superattendent ,,, Cargo",SUPER
+SURGEON,.,SURGEON
+SURVEYOR,....,SURVEYOR
+SVMKR,Shw,SVMKR
+SVNT,Chrmkr,SVNT
+SWF,Swr,SWF
+SWP,Svyr,SWP
+TABLE,Maker,TABLE
+TALCH,Tlsmn,TALCH
+TALISMAN,Tailor/Tailoress,TALISMAN
+TALLON,Chandler,TALLON
+TALLOW,Chandler,TALLOW
+TAVERNER,Tanner,TAVERNER
+TBCL,Tipwk.R,TBCL
+TBCMCHT,Tbcmnftr,TBCMCHT
+TBMR,Trm,TBMR
+TCHR,Ttr,TCHR
+TCHRL,Languages,TCHRL
+TDLR,Tvn,TDLR
+TEA,Dealer,TEA
+TEACHER,Teacher Of,TEACHER
+TENDER,Frame,TENDER
+TENTER,Teamster Telegraph ·Tenor,TENTER
+TERRACE,Maker,TERRACE
+THEOLOGY,Tessitore Theatrical Theological,THEOLOGY
+THF,Thprof,THF
+THREAD,Thief Maker,THREAD
+THST,Student,THST
+TILE,' Maker,TILE
+TILLER,Tiles,TILLER
+TIMBER,... Merchant,TIMBER
+TIN,Tinker Maker,TIN
+TINNER,Tinman,TINNER
+TINPLATE,Tinsmith Worker,TINPLATE
+TKR,Tmbmcht,TKR
+TLM,Tbcmcht,TLM
+TLR,Tbmk,TLR
+TLRW,Wggm Maker,TLRW
+TMCTR,Til,TMCTR
+TNI,Tuner,TNI
+TNM,Tnmk,TNM
+TNR,(Tanner),TNR
+TNSTH,Tir,TNSTH
+TNT,Tn,TNT
+TOBACCO,Manufacturer,TOBACCO
+TPF,Twt,TPF
+TPS,Tpgph,TPS
+TR,Tilm,TR
+TRADE,Tobacconist Toolmaker Tourist · Man,TRADE
+TRAINER,Trader,TRAINER
+TRD,Ndl\.F',TRD
+TRDM,Tt,TRDM
+TRIMMER,Traveler Treasurer,TRIMMER
+TRIMMING,Maker,TRIMMING
+TRMM,Trmr,TRMM
+TRNR,.Trd,TRNR
+TRSR,Fui.Mlr,TRSR
+TTDR,Tmkr,TTDR
+TU,Tni,TU
+TUBE,Truckman Maker,TUBE
+TUNER,Instruments Of,TUNER
+TURNER,Turner Fitter,TURNER
+TW,Tuftr,TW
+TWISTER,Cigar,TWISTER
+TYPE,·Twister Founder 1Type Typeographer Sei'Ter,TYPE
+UNDWRT,Uwrt,UNDWRT
+UPHST,Undtkr,UPHST
+US,Csl,US
+USA,"Usa File, Record Size 130 . Lusa File, Record Size 130 .",USA
+USNO,Officer,USNO
+VALET,....,VALET
+VAR,Val,VAR
+VASE,Varnisher Maker,VASE
+VCLT,Vsgn,VCLT
+VELVET,Worker,VELVET
+VET,Vender Veterinarian Surgeon,VET
+VINEGAR,Victualler Maker,VINEGAR
+VLT,Vs:Mkr,VLT
+VNT,Vinm,VNT
+VOCALIST,Vintner Violinlist,VOCALIST
+WAGON,Wagoner/Wagon Maker,WAGON
+WAITER,Waistcoat,WAITER
+WALL,Waitress Cleaner,WALL
+WARMER,Warehouse Warehouse Of,WARMER
+WARP,Dresser,WARP
+WASH,Warper Woman,WASH
+WATERMAN,Watchmaker .Watchman,WATERMAN
+WAX,Waterproof Maker,WAX
+WDCDR,Wdcv,WDCDR
+WDCTR,Wdmcht,WDCTR
+WDMN,Wdctr,WDMN
+WDTU,Wdrngr,WDTU
+WEAVER,Canvas,WEAVER
+WEIGHER,Weaver/Tessitore,WEIGHER
+WGNR,Driver,WGNR
+WGW,Wcptrs,WGW
+WHARF,I,WHARF
+WHEELER,Welder Weridrawer Wharf/Quay,WHEELER
+WHLR,"Wid Worker Q,A",WHLR
+WIDOW,"-,: Wheelright Whitesmith",WIDOW
+WIFE,..... Ship'S Of,WIFE
+WIGMAKER,Carpenter,WIGMAKER
+WINE,Merchant,WINE
+WIRE,Drawer,WIRE
+WITT,Wiwkr,WITT
+WIWVR,Widr,WIWVR
+WLC,Wlcm,WLC
+WLD,Wghr,WLD
+WLDYR,Wldr,WLDYR
+WLSR,Wlmcht,WLSR
+WMCHT,Wgr,WMCHT
+WMCTR,Labr,WMCTR
+WMN,Lad Wc~,WMN
+WMNFTR,Wls,WMNFTR
+WOOD,Witt Carver,WOOD
+WOOL,Merchant/,WOOL
+WOOLEN,Manufacturer,WOOLEN
+WORK,Founder Founder Of Iron,WORK
+WORKER,Hair Of,WORKER
+WORKERS,Suptrw,WORKERS
+WRHSMN,Wlcr,WRHSMN
+WRIGHT,Workman/Woman Cutter 'Worm,WRIGHT
+WRITING,Writer Man,WRITING
+WRPR,Wlw,WRPR
+WRT,Wgt,WRT
+WRTM,Wrt,WRTM
+WSMH,Whr,WSMH
+WTRPR,Wet Maker,WTRPR
+WTRS,Wtr,WTRS
+WVR,Term,WVR
+YMN,-­,YMN
